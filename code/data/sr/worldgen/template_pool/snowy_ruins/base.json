@@ -1,0 +1,54 @@
+{
+	"name": "sr:snowy_ruins/base",
+	"fallback": "minecraft:empty",
+	"elements": [
+
+{
+		"weight": 1,
+		"element": {
+			"location": "sr:main/1",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:main/2",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+    {
+		"weight": 1,
+		"element": {
+			"location": "sr:main/3",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	 {
+		"weight": 1,
+		"element": {
+			"location": "sr:main/4",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	 {
+		"weight": 1,
+		"element": {
+			"location": "sr:main/5",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+
+
+]
+}

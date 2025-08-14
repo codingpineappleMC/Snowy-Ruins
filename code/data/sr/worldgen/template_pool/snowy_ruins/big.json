@@ -1,0 +1,45 @@
+{
+	"name": "sr:snowy_ruins/big",
+	"fallback": "minecraft:empty",
+	"elements": [
+
+{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/wow",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/wow_1",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/wow_2",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+			"weight": 2,
+			"element": {
+				"location": "minecraft:empty",
+				"processors": "sr:vary",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}
+
+
+]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "sr:snowy_ruins/path",
+	"fallback": "minecraft:empty",
+	"elements": [
+
+{
+		"weight": 2,
+		"element": {
+			"location": "sr:path/1",
+			"processors": "sr:vary",
+			"projection": "terrain_matching",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 2,
+		"element": {
+			"location": "sr:path/2",
+			"processors": "sr:vary",
+			"projection": "terrain_matching",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+    {
+		"weight": 2,
+		"element": {
+			"location": "sr:path/3",
+			"processors": "sr:vary",
+			"projection": "terrain_matching",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:path/wow",
+			"processors": "sr:vary",
+			"projection": "terrain_matching",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+
+
+]
+}

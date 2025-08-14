@@ -1,0 +1,190 @@
+{
+	"name": "sr:snowy_ruins/home",
+	"fallback": "minecraft:empty",
+	"elements": [
+
+{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/1",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/2",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+    {
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/3",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/4",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/5",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/6",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/7",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/8",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/9",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/10",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/11",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/12",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/13",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/14",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/15",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/16",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/17",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/18",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/19",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+		{
+		"weight": 1,
+		"element": {
+			"location": "sr:homes/20",
+			"processors": "sr:vary",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+	
+
+
+]
+}

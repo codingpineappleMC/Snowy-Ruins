@@ -1,0 +1,46 @@
+{
+    "name": "sr:snowy_ruins/trees",
+   	"fallback": "empty",
+	"elements": [
+
+
+	
+
+	{
+		"weight": 1,
+		"element": {
+			"processors":"minecraft:empty",
+			"location": "sr:ice/ice_mid_3",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"processors":"minecraft:empty",
+			"location": "sr:ice/ice_mid_2",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"processors":"minecraft:empty",
+			"location": "sr:ice/ice_mid_1",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+			"processors":"minecraft:empty",
+			"location": "sr:ice/ice_small_1",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+]
+}
