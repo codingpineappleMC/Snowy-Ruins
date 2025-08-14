@@ -1,7 +1,8 @@
 
 {
   "pack": {
-    "pack_format": 48,
+    "pack_format": 48, //The first version it was ported to 1.21-1.21.1, you can always change this to the id coresponding to the game version.
     "description": "Made by Coding_pineapple"
   }
+
 }
